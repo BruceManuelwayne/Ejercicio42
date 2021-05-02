@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\Ejercicio42\Ejercicio42\Ejercicio42\bin\Debug\Ejercicio42.exe.config
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\Ejercicio42\Ejercicio42\Ejercicio42\bin\Debug\Ejercicio42.exe
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\Ejercicio42\Ejercicio42\Ejercicio42\bin\Debug\Ejercicio42.pdb
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\Ejercicio42\Ejercicio42\Ejercicio42\obj\Debug\Ejercicio42.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\Ejercicio42\Ejercicio42\Ejercicio42\obj\Debug\Ejercicio42.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\Ejercicio42\Ejercicio42\Ejercicio42\obj\Debug\Ejercicio42.exe
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\Ejercicio42\Ejercicio42\Ejercicio42\obj\Debug\Ejercicio42.pdb
